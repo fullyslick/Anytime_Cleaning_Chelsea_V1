@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">anytimecleaning</string>
+    <string name="homepage"><a href="http://anytimecleaningchelsea.com">www.anytimecleaningchelsea.com</a></string>
+    <string name="description">Anytime Cleaning Chelsea is serving its customers since the end of 2011. Our company works on a commercial and domestic level. We design our services in order to help the local people of Chelsea. The convenience of our help comes on an affordable price for everyone, too. Another key point for our success is our employees. Thanks to their efforts the number of our customers is growing. In addition to that, we strive to use only organic cleaning products. Thus makes one of the few eco-friendly companies in the sector. We are also innovators because we work with the most advanced equipment. Furthermore, we will not interrupt your day to day plan. In fact we can serve you on the weekends, the Bank Holidays or early in the morning. To sum up we provide flexible and professional services that fit into every pocket. Get an offer that suits your personal needs.</string>
+    <string name="addres">57 Chelsea Manor Street, Chelsea, SW3 5RZ</string>
+    <string name="hours">Monday - Sunday (08:00 - 19:00)</string>
+    <string name="phone"><a href="tel:02030262307" >020 3026 2307</a></string>
+</resources>
